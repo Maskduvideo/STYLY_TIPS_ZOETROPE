@@ -535,7 +535,7 @@ GameObject:
   - component: {fileID: 4626293058011044}
   - component: {fileID: 95257830054752506}
   m_Layer: 0
-  m_Name: Rolling Object
+  m_Name: Rolling Object(Upload to STYLY)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
